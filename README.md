@@ -1,6 +1,3 @@
-## WebLogic Scritps
-
-### [as_passwd.sh](./as_passwd.sh)
-Desencriptar el Usuario y Contraseña del AdminServer para un dominio dado.
+-- Scripts used for System Administration, mostly for Nacho.sh
 
 
